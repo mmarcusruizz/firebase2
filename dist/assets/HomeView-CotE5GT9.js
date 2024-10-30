@@ -1,0 +1,1 @@
+import{_ as o,c as n,a as r,o as t}from"./index-00o2-yRc.js";const a={};function s(c,e){return t(),n("main",null,e[0]||(e[0]=[r("h1",null,"Home",-1)]))}const m=o(a,[["render",s]]);export{m as default};
